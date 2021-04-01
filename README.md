@@ -26,8 +26,8 @@ img {margin:3px}
 
 Hi, I'm a **Android** developer from China 🌏.
 
-- 👨‍💻‍ I’m working on **Android SDK** and **Gradle Plugin**
-- 🌱 I’m learning **Byte code**, **Django**, **Flutter**, **Python**
+- 👨‍💻‍ I’m working on **Android** developing
+- 🌱 I’m learning **Byte code**, **Flutter**
 
 ### Speciality
 
