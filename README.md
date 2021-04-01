@@ -8,7 +8,7 @@ img {margin:3px}
 
 
 <a href="https://blog.lxzh.app">
-  <img align="left" alt="lxzh's Blog" width="22px" margin:5px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+  <img align="left" alt="lxzh's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <a href="https://blog.csdn.net/lxzh12345">
   <img align="left" alt="lxzh's CSDN Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
@@ -31,24 +31,21 @@ Hi, I'm a **Android** developer from China 🌏.
 
 ### Speciality
 
-<table border="0">
-<tr>
-<td><img src="https://img.shields.io/badge/Android-5+-009900?style=for-the=badge&logo=android&logoColor=%ffffff"></td>
-<td><img src="https://img.shields.io/badge/C/C++-3+-669977?style=for-the=badge&logo=c&logoColor=%ffffff"></td>
+<a><img align="left" width="90px" height="20px" src="https://img.shields.io/badge/Android-5+-009900?style=for-the=badge&logo=android&logoColor=%ffffff"/></a>
 
-<td><img src="https://img.shields.io/badge/Python-3+-669977?style=for-the=badge&logo=python&logoColor=%ffffff"></td>
+<a><img align="left" width="80px" height="20px" src="https://img.shields.io/badge/C/C++-3+-669977?style=for-the=badge&logo=c&logoColor=%ffffff"/></a>
 
-<td><img src="https://img.shields.io/badge/Gradle-4-66bb77?style=for-the=badge&logo=gradle&logoColor=%ffffff"></td>
+<a><img align="left" width="90px" height="20px" src="https://img.shields.io/badge/Python-3+-669977?style=for-the=badge&logo=python&logoColor=%ffffff"/></a>
 
-<td><img src="https://img.shields.io/badge/Git-4+-66dd77?style=for-the=badge&logo=git&logoColor=%ffffff"></td>
+<a><img align="left" width="80px" height="20px" src="https://img.shields.io/badge/Gradle-4-66bb77?style=for-the=badge&logo=gradle&logoColor=%ffffff"/></a>
 
-<td><img src="https://img.shields.io/badge/Android Studio-4+-66dd77?style=for-the=badge&logo=android-studio&logoColor=%ffffff"></td>
+<a><img align="left" width="60px" height="20px" src="https://img.shields.io/badge/Git-4+-66dd77?style=for-the=badge&logo=git&logoColor=%ffffff"/></a>
 
-<td><img src="https://img.shields.io/badge/VSCode-3-667777?style=for-the=badge&logo=visual-studio-code&logoColor=%ffffff"></td>
+<a><img align="left" width="120px" height="20px" src="https://img.shields.io/badge/Android Studio-4+-66dd77?style=for-the=badge&logo=android-studio&logoColor=%ffffff"/></a>
 
-<td><img src="https://img.shields.io/badge/Xcode-3-667777?style=for-the=badge&logo=xcode&logoColor=%ffffff"></td>
-</tr>
-</table>
+<a><img align="left" width="95px" height="20px" src="https://img.shields.io/badge/VSCode-3-667777?style=for-the=badge&logo=visual-studio-code&logoColor=%ffffff"/></a>
+
+<a><img align="left" width="90px" height="20px" src="https://img.shields.io/badge/Xcode-3-667777?style=for-the=badge&logo=xcode&logoColor=%ffffff"/></a>
 
 <!--
 **lxzh/lxzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
