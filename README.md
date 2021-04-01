@@ -31,6 +31,7 @@ Hi, I'm a **Android** developer from China 🌏.
 
 ### Speciality
 
+<table border="0">
 <tr>
 <td><img src="https://img.shields.io/badge/Android-5+-009900?style=for-the=badge&logo=android&logoColor=%ffffff"></td>
 <td><img src="https://img.shields.io/badge/C/C++-3+-669977?style=for-the=badge&logo=c&logoColor=%ffffff"></td>
@@ -47,7 +48,7 @@ Hi, I'm a **Android** developer from China 🌏.
 
 <td><img src="https://img.shields.io/badge/Xcode-3-667777?style=for-the=badge&logo=xcode&logoColor=%ffffff"></td>
 </tr>
-
+</table>
 
 <!--
 **lxzh/lxzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
