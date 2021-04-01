@@ -31,21 +31,23 @@ Hi, I'm a **Android** developer from China 🌏.
 
 ### Speciality
 
-<img src="https://img.shields.io/badge/Android-5+-009900?style=for-the=badge&logo=android&logoColor=%ffffff">
+<tr>
+<td><img src="https://img.shields.io/badge/Android-5+-009900?style=for-the=badge&logo=android&logoColor=%ffffff"></td>
+<td><img src="https://img.shields.io/badge/C/C++-3+-669977?style=for-the=badge&logo=c&logoColor=%ffffff"></td>
 
-<img src="https://img.shields.io/badge/C/C++-3+-669977?style=for-the=badge&logo=c&logoColor=%ffffff">
+<td><img src="https://img.shields.io/badge/Python-3+-669977?style=for-the=badge&logo=python&logoColor=%ffffff"></td>
 
-<img src="https://img.shields.io/badge/Python-3+-669977?style=for-the=badge&logo=python&logoColor=%ffffff">
+<td><img src="https://img.shields.io/badge/Gradle-4-66bb77?style=for-the=badge&logo=gradle&logoColor=%ffffff"></td>
 
-<img src="https://img.shields.io/badge/Gradle-4-66bb77?style=for-the=badge&logo=gradle&logoColor=%ffffff">
+<td><img src="https://img.shields.io/badge/Git-4+-66dd77?style=for-the=badge&logo=git&logoColor=%ffffff"></td>
 
-<img src="https://img.shields.io/badge/Git-4+-66dd77?style=for-the=badge&logo=git&logoColor=%ffffff">
+<td><img src="https://img.shields.io/badge/Android Studio-4+-66dd77?style=for-the=badge&logo=android-studio&logoColor=%ffffff"></td>
 
-<img src="https://img.shields.io/badge/Android Studio-4+-66dd77?style=for-the=badge&logo=android-studio&logoColor=%ffffff">
+<td><img src="https://img.shields.io/badge/VSCode-3-667777?style=for-the=badge&logo=visual-studio-code&logoColor=%ffffff"></td>
 
-<img src="https://img.shields.io/badge/VSCode-3-667777?style=for-the=badge&logo=visual-studio-code&logoColor=%ffffff">
+<td><img src="https://img.shields.io/badge/Xcode-3-667777?style=for-the=badge&logo=xcode&logoColor=%ffffff"></td>
+</tr>
 
-<img src="https://img.shields.io/badge/Xcode-3-667777?style=for-the=badge&logo=xcode&logoColor=%ffffff">
 
 <!--
 **lxzh/lxzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
