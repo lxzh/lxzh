@@ -4,7 +4,7 @@ img {margin:3px}
 
 ## 😛 Hi there, I'm lxzh 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lxzh&show_icons=true&icon_color=0333f6&text_color=afb7c0&bg_color=ffffff&hide_title=false&count_private=true&include_all_commits=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lxzh&show_icons=true&icon_color=0333f6&text_color=afb7c0&bg_color=0c0e12&hide_title=false&count_private=true&include_all_commits=true">
 
 
 <a href="https://blog.lxzh.app">
