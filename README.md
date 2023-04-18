@@ -27,7 +27,7 @@ img {margin:3px}
 Hi, I'm a **Android** developer from China 🌏.
 
 - 👨‍💻‍ I’m working on **Android** developing
-- 🌱 I’m learning **Byte code**, **Flutter**
+- 🌱 I’m learning **AI**
 
 ### Speciality
 
