@@ -24,7 +24,7 @@ img {margin:3px}
 
 ### About me
 
-Hi, I'm a **Android** developer from China 🌏.
+Hi, I'm an **Android** developer from China 🌏.
 
 - 👨‍💻‍ I’m working on **Android** developing
 - 🌱 I’m learning **AI**
